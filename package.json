@@ -1,0 +1,23 @@
+{
+  "name": "pillow",
+  "version": "1.0.0",
+  "description": "NO MAKING FUN OF THE FUCKING CODE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S1monuwu/pillow.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/S1monuwu/pillow/issues"
+  },
+  "homepage": "https://github.com/S1monuwu/pillow#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}

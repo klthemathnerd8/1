@@ -1,0 +1,20 @@
+{
+    "name": "Pillow",
+    "description": "A frontend for Ultraviolet made by S1mon",
+    "keywords": [
+        "javascript",
+        "proxy",
+        "web-proxy",
+        "unblocker",
+        "unblock",
+        "ultraviolet",
+        "aero"
+    ],
+    "repository": "https://github.com/S1monuwu/pillow",
+    "image": "heroku/nodejs",
+    "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs"
+        }
+    ]
+}
